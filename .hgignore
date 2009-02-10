@@ -1,0 +1,23 @@
+# use glob syntax.
+syntax: glob
+
+## HG Revert
+*.orig
+
+## backup & tmp/* files
+tmp/
+*.bak
+
+## vi swap files
+*.swp
+
+## Latex Output
+*.pdf
+*.ps
+*.dvi
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
