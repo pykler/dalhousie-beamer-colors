@@ -1,0 +1,33 @@
+Dalhousie Beamer Color Example
+==============================
+
+An example to show what the Dalhousie colors look like in a LaTex Beamer
+Presentation.
+
+Dependencies
+------------
+
+  You should have the following installed:
+
+    * latex - http://www.tug.org/texlive/
+    * latex-beamer - http://latex-beamer.sourceforge.net/
+  
+
+Typeset the Example
+-------------------
+
+  To typeset the example.pdf, in this directory run:
+
+    make
+      - OR -
+    make pdf
+
+  Other targets:
+
+    To generate example.ps      make ps
+    To generate example.dvi     make dvi
+    To cleanup                  make clean
+    To really clean up          make distclean
+
+
+# vim: sw=2 :
