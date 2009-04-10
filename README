@@ -8,7 +8,9 @@ To use this theme in your latex beamer presentation:
 
   * copy the sty file to the directory containing your Tex presentation
 
-  * add the following to the setup section (before \begin{document}):
+  * copy the logos directory to the same directory as above
+
+  * add the following to the preamble (before \begin{document}):
 
         \usecolortheme{dalhousie}
 
