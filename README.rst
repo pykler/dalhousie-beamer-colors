@@ -6,11 +6,11 @@ utilizes the Dalhousie University Colors.
 
 To use this theme in your latex beamer presentation:
 
-  * copy the sty file to the directory containing your Tex presentation
+ * copy the sty file to the directory containing your Tex presentation
 
-  * copy the logos directory to the same directory as above
+ * copy the logos directory to the same directory as above
 
-  * add the following to the preamble (before \begin{document}):
+ * add the following to the preamble (before \begin{document})::
 
         \usecolortheme{dalhousie}
 
